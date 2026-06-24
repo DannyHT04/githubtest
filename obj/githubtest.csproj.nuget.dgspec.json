@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/danny/Documents/work/githubtest/githubtest.csproj": {}
+    "C:\\Users\\aolmd\\Downloads\\githubtest\\githubtest.csproj": {}
   },
   "projects": {
-    "/Users/danny/Documents/work/githubtest/githubtest.csproj": {
+    "C:\\Users\\aolmd\\Downloads\\githubtest\\githubtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/danny/Documents/work/githubtest/githubtest.csproj",
+        "projectUniqueName": "C:\\Users\\aolmd\\Downloads\\githubtest\\githubtest.csproj",
         "projectName": "githubtest",
-        "projectPath": "/Users/danny/Documents/work/githubtest/githubtest.csproj",
-        "packagesPath": "/Users/danny/.nuget/packages/",
-        "outputPath": "/Users/danny/Documents/work/githubtest/obj/",
+        "projectPath": "C:\\Users\\aolmd\\Downloads\\githubtest\\githubtest.csproj",
+        "packagesPath": "C:\\Users\\aolmd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aolmd\\Downloads\\githubtest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/danny/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\aolmd\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
